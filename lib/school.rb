@@ -9,7 +9,7 @@ STUDENTS = []
     @roster ={}
   end
 
-  def student_name(student)
+  def add_student(student)
     STUDENTS << student
   end
 end
