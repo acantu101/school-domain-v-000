@@ -2,9 +2,7 @@
 class School
 
   def initilize(name)
-    roaster = {
-
-    }
+    roaster = hash.new
   end
 
 end
