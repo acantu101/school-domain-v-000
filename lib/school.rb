@@ -10,7 +10,7 @@ attr_accessor :name, :roster, :student
   end
 
   def add_student(student,grade)
-  @roaster =[:student,[grade]]
+  @roaster =[:grade]
 
   end
 end
