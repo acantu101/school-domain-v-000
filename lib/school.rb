@@ -1,7 +1,8 @@
 class School
+  roster = {
+    
+  }
   def initialize(name)
-    roster = {
-
-    }
+ school.new
   end
 end
