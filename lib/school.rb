@@ -4,7 +4,9 @@ class School
   attr_reader :name
 
   def initilize(school)
-    roster = Hash.new
+    roster = {
+      
+    }
   end
 
 end
