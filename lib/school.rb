@@ -1,7 +1,7 @@
 class School
 
   def initialize(name)
-    roster = Hash.new(0)
+    roster = Hash.new " "
   end
 
 
