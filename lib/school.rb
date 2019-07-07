@@ -11,5 +11,5 @@ STUDENTS = []
 
   def student_name(student)
     STUDENTS << student
-
+  end
 end
