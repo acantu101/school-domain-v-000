@@ -3,6 +3,6 @@ class School
 
   }
   def initialize(name)
- school.new
+
   end
 end
