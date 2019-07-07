@@ -5,5 +5,5 @@ class School
     roster = Hash.new
   end
 
-  
+
 end
